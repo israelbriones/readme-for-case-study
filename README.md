@@ -1,2 +1,2 @@
-# readme-for-case-study
+# readme for case study
 ## Hi
