@@ -29,6 +29,6 @@ In this task,
 In this task,
 
 ### fd(P,Q) and assignment E<sub>max</sub>
-The file contains code to compute the algorithm E<sub>max</sub> as well as fd(P,Q). It also includes the trajectory pairs (128-20080503104400, 128-20080509135846),(010-20081016113953, 010-20080923124453), and (115-20080520225850, 115-20080615225707) which can be run on the algorithm. So for each pair the histograms of lengths of edges can be plotted. 
+The file contains code to compute the algorithm E<sub>max</sub> as well as fd(P,Q) that realize the minimum values. It also includes the trajectory pairs (128-20080503104400, 128-20080509135846),(010-20081016113953, 010-20080923124453), and (115-20080520225850, 115-20080615225707) which can be run on the algorithm. So for each pair the histograms of lengths of edges can be plotted. In order to create the histograms matplotlib.pyplot will be needed.
 
 
