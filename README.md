@@ -27,5 +27,10 @@ In this task, we want to design an algorithm to compute d(q,e), the distance bet
 
 
 ## Task 3
+In this task, we want to design algorithms that compute dtw(P,Q) and fd(P,Q) along with assignments E<sub>avg</sub> and E<sub>max</sub> that realize the minimum values. In our code we are able to do the following:
+
+*  Implement the algorithms to compute dtw(P,Q) and fd(P,Q)
+* Run both algorithms for trajectory pairs (128-20080503104400, 128-20080509135846),(010-20081016113953, 010-20080923124453), and (115-20080520225850, 115-20080615225707). We use that to plot a histogram for each pair for both E<sub>avg</sub> and E<sub>max</sub> and their lengths of edges.
+* Compute a simplification of each of T1 = 115-20080520225850, T2 = 115-20080615225707 for ε = 0.03,0.1,0.3 (kilometers).
 
 
