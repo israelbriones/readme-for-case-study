@@ -35,5 +35,5 @@ In this task, we want to design algorithms that compute dtw(P,Q) and fd(P,Q) alo
 
 Uisng the code in task3.py, you're able to accomplish the first bullet point by computing the algorithms needed to do E<sub>avg</sub> and E<sub>max</sub>. As well as compute dtw(P,Q) and fd(P,Q).
 
-Using the code in the files in e_avg1.py, e_avg2.py, and e_avg3.py to create the histograms for E<sub>avg</sub>.
+Using the code in the files in e_avg1.py, e_avg2.py, and e_avg3.py to create the histograms for E<sub>avg</sub>. Then the code in the files e_max1.py, e_max2.py, and e_max3.py to create the histograms for E<sub>max</sub>.
  
