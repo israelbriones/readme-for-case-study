@@ -15,7 +15,7 @@ python -m pip install -U matplotlib
 ```
 ## Technologies
 * The datasets provided (geolife-cars.csv, geolife-cars-ten-percent.csv, geolife-cars-thirty-percent.csv, geolife-cars-sixty-percent.csv)
-* Visual Studi Code
+* Visual Studio Code
 * Python 3.9.12
 * matplotlib.pyplot
 
@@ -24,6 +24,7 @@ In this task,
 
 ## Task 2
 In this task,
+
 
 ## Task 3
 In this task,
