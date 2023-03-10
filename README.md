@@ -1,2 +1,5 @@
 # Case Study: Trajectory Data Analysis, Part I
-By Alexis, Nicole, Rosine, Israel
+
+# General Information
+
+This Case Study is about creating algorithms that 
